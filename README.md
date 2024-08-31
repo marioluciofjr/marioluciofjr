@@ -12,6 +12,8 @@ Atuo no ramo freelancer há mais de 7 anos, sendo o criador da Prazo Certo®, um
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioluciofjr&langs_count=10)
 
+          
+
 ##
  
 <div>  	
@@ -21,6 +23,12 @@ Atuo no ramo freelancer há mais de 7 anos, sendo o criador da Prazo Certo®, um
   <a href="https://prazocerto.me/contato" target="_blank"><img src="https://img.shields.io/badge/prazocerto.me/contato-230023?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
   
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marioluciofjr/marioluciofjr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marioluciofjr/marioluciofjr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marioluciofjr/marioluciofjr/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
