@@ -30,8 +30,8 @@ Atuo no ramo freelancer há mais de 7 anos, sendo o criador da Prazo Certo®, um
 ##
  
 <div>  	
-  <a href="https://www.linkedin.com/in/marioluciofjr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:marioluciofjr@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marioluciofjr"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
+  <a href = "mailto:marioluciofjr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://support.google.com/profile/119801043?sjid=9010980831254432834-SA" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google%20Experts-34A853?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
   <a href="https://prazocerto.me/contato" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/prazocerto.me/contato-230023?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
   
