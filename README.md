@@ -12,6 +12,19 @@ Atuo no ramo freelancer há mais de 7 anos, sendo o criador da Prazo Certo®, um
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioluciofjr&langs_count=10)
 
+<div>
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /> 
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
+          
+                
+</div>
+
+            
+          
           
 
 ##
