@@ -6,7 +6,7 @@ Atuo no ramo freelancer há mais de 7 anos, sendo o criador da Prazo Certo®, um
 ✍🏽 Produção de Blogposts\
 📊 Desenvolvimento de planilhas personalizadas em Google Sheets\
 💻 Gestão de LinkedIn\
-🤖 Criação de imagens com IA generativa
+🤖 Criação de prompts personalizados para IA generativa
 
 ## Tecnologias que utilizo
 
