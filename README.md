@@ -1,7 +1,7 @@
 ## Olá, tudo bem? 😉
 
 Eu sou o Mário, bacharel em Administração e com MBA em Finanças Estratégicas e Investimentos.
-Atuo no ramo freelancer há mais de 7 anos, sendo o criador da Prazo Certo®, uma "eugência" que alia marketing de conteúdo, design, análise de dados e gestão do tempo. Como MEI ofereço os seguintes serviços: 
+Atuo no ramo freelancer há mais de 8 anos, sendo o criador da Prazo Certo®, uma "eugência" que alia marketing de conteúdo, tecnologia e gestão do tempo. Como MEI ofereço os seguintes serviços: 
 
 ✍🏽 Produção de Blogposts\
 📊 Desenvolvimento de planilhas personalizadas em Google Sheets\
@@ -23,8 +23,13 @@ Atuo no ramo freelancer há mais de 7 anos, sendo o criador da Prazo Certo®, um
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />&nbsp;&nbsp;&nbsp; 
     <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/03d84c1b-dba8-490d-b29f-085029eeb1df" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/b50a667a-a3cc-4a8c-8cff-83fe5bf9cdd5" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/1d62c98f-8f78-49d1-b330-901f0f72b4e6" />&nbsp;&nbsp;&nbsp;    
+    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/0324b2d2-c9f4-4c2e-ba62-703a7f346de6" />&nbsp;&nbsp;&nbsp;    
+    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/cf957637-962d-4548-87d4-bbde91fadc22" />&nbsp;&nbsp;&nbsp;
+    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/c0604008-f730-413f-9c4e-9b06c0912692" />&nbsp;&nbsp;&nbsp;     
+    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/63e3b960-3dc5-48fc-a300-b3104430235f" />&nbsp;&nbsp;&nbsp; 
+    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/284057b9-6543-4245-ae33-12fe293e7dca" />&nbsp;&nbsp;&nbsp; 
+    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/31ed57e7-f4b7-4d86-9373-668a38f8db17" />&nbsp;&nbsp;&nbsp; 
+    <img align="center" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />&nbsp;&nbsp;&nbsp; 
       
 </div>
 
