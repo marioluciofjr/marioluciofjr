@@ -20,6 +20,7 @@ Atuo no ramo freelancer há mais de 8 anos, sendo o criador da Prazo Certo®, um
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />&nbsp;&nbsp;&nbsp;
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />&nbsp;&nbsp;&nbsp;
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />&nbsp;&nbsp;&nbsp;
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />&nbsp;&nbsp;&nbsp; 
     <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/03d84c1b-dba8-490d-b29f-085029eeb1df" />&nbsp;&nbsp;&nbsp;
