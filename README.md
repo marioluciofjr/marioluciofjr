@@ -10,12 +10,14 @@ Atuo no ramo freelancer há mais de 8 anos, sendo o criador da Prazo Certo®, um
 
 ## Tecnologias que utilizo
 
-<div>
+<p>
     <img align="center" height="110" width="90" src="https://cdn.mrkhub.com/instapage-landings-frontend/104/images/_pages/integration/intro/google-sheets-logo.svg" />&nbsp;&nbsp;&nbsp;
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;    
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+</p>
+<p>
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;&nbsp;      
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />&nbsp;&nbsp;&nbsp;
@@ -32,7 +34,7 @@ Atuo no ramo freelancer há mais de 8 anos, sendo o criador da Prazo Certo®, um
     <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/31ed57e7-f4b7-4d86-9373-668a38f8db17" />&nbsp;&nbsp;&nbsp; 
     <img align="center" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />&nbsp;&nbsp;&nbsp; 
       
-</div>
+</p>
 
             
           
