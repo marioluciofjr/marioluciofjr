@@ -75,14 +75,10 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
     <a href="https://marioluciofjr.substack.com" target="_blank"><img height="200" width="200" src="https://img.shields.io/badge/Substack-3_parágrafos-orange?style=plastic" /></a>
 </p>
 
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marioluciofjr/marioluciofjr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marioluciofjr/marioluciofjr/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marioluciofjr/marioluciofjr/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-
-
