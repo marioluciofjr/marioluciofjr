@@ -31,7 +31,7 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
     <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" /> &nbsp
 </p>
 
-## IA generativa
+## IAs generativas
 
 <p align="left">
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/gemini-color.svg" /> &nbsp
