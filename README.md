@@ -69,10 +69,10 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
 ## Contatos
 
 <p align="left">
-    <a href="https://www.prazocerto.me" target="_blank"><img height="200" width="200" src="https://img.shields.io/badge/Site-prazocerto.me-230023?style=plastic" /></a>
-    <a href="https://www.linkedin.com/in/marioluciofjr" target="_blank"><img height="225" width="225" src="https://img.shields.io/badge/LinkedIn-marioluciofjr-blue?style=plastic" /></a>
-    <a href="https://www.behance.net/prazocerto" target="_blank"><img height="200" width="200" src="https://img.shields.io/badge/Behance-prazocerto-black?style=plastic" /></a>    
-    <a href="https://marioluciofjr.substack.com" target="_blank"><img height="225" width="225" src="https://img.shields.io/badge/Substack-3_parágrafos-orange?style=plastic" /></a>
+    <a href="https://www.prazocerto.me" target="_blank"><img height="175" width="175" src="https://img.shields.io/badge/Site-prazocerto.me-230023?style=plastic" /></a>
+    <a href="https://www.linkedin.com/in/marioluciofjr" target="_blank"><img height="200" width="200" src="https://img.shields.io/badge/LinkedIn-marioluciofjr-blue?style=plastic" /></a>
+    <a href="https://www.behance.net/prazocerto" target="_blank"><img height="175" width="175" src="https://img.shields.io/badge/Behance-prazocerto-black?style=plastic" /></a>    
+    <a href="https://marioluciofjr.substack.com" target="_blank"><img height="200" width="200" src="https://img.shields.io/badge/Substack-3_parágrafos-orange?style=plastic" /></a>
 </p>
 
 <picture>
