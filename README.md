@@ -34,95 +34,46 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
 ## IA generativa
 
 <p align="left">
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/gemini-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/openai.svg" /> &nbsp    
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/claude-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/perplexity-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/grok.svg" /> &nbsp
 </p>
 
 <p align="left">
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/deepseek-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/qwen-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/metaai-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mistral-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/notebooklm.svg" /> &nbsp
+    
 </p>
 
 <p align="left">
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/lovart.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/ideogram.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/suno.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/kling-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/poe-color.svg" /> &nbsp
 </p>
 
 <p align="left">
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/antigravity-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/aistudio.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/lovable-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/make-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mcp.svg" /> &nbsp
 </p>
+
+## Contatos
 
 <p align="left">
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
+    <a href="https://www.prazocerto.me" target="_blank"><img height="200" width="200" src="https://img.shields.io/badge/Site-prazocerto.me-230023?style=plastic" /></a>
+    <a href="https://www.linkedin.com/in/marioluciofjr" target="_blank"><img height="225" width="225" src="https://img.shields.io/badge/LinkedIn-marioluciofjr-blue?style=plastic" /></a>
+    <a href="https://www.behance.net/prazocerto" target="_blank"><img height="200" width="200" src="https://img.shields.io/badge/Behance-prazocerto-black?style=plastic" /></a>    
+    <a href="https://marioluciofjr.substack.com" target="_blank"><img height="225" width="225" src="https://img.shields.io/badge/Substack-3_parágrafos-orange?style=plastic" /></a>
 </p>
-
-<p align="left">
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-    <img height="" width="" src="" /> &nbsp
-</p>
-
-
-<p align="left">
-    <img height="110" width="90" src="https://cdn.mrkhub.com/instapage-landings-frontend/104/images/_pages/integration/intro/google-sheets-logo.svg" />&nbsp;&nbsp;&nbsp;
-    <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-    <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;    
-    <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-    <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-</p>
-<p>
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;&nbsp;      
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />&nbsp;&nbsp;&nbsp; 
-    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/03d84c1b-dba8-490d-b29f-085029eeb1df" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/0324b2d2-c9f4-4c2e-ba62-703a7f346de6" />&nbsp;&nbsp;&nbsp; 
-</p>
-<p>
-    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/cf957637-962d-4548-87d4-bbde91fadc22" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/c0604008-f730-413f-9c4e-9b06c0912692" />&nbsp;&nbsp;&nbsp;     
-    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/63e3b960-3dc5-48fc-a300-b3104430235f" />&nbsp;&nbsp;&nbsp; 
-    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/284057b9-6543-4245-ae33-12fe293e7dca" />&nbsp;&nbsp;&nbsp; 
-    <img align="center" height="60" width="80" src="https://github.com/user-attachments/assets/31ed57e7-f4b7-4d86-9373-668a38f8db17" />&nbsp;&nbsp;&nbsp; 
-    <img align="center" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />&nbsp;&nbsp;&nbsp; 
-      
-</p>
-
-            
-          
-          
-
-##
- 
-<div>  	
-  <a href="https://www.linkedin.com/in/marioluciofjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:marioluciofjr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = "https://support.google.com/profile/119801043?sjid=9010980831254432834-SA" target="_blank"><img src="https://img.shields.io/badge/Google%20Experts-34A853?style=for-the-badge&logo=google&logoColor=white"></a>
-  <a href="https://prazocerto.me/contato" target="_blank"><img src="https://img.shields.io/badge/prazocerto.me/contato-230023?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-  
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marioluciofjr/marioluciofjr/output/github-contribution-grid-snake-dark.svg">
