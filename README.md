@@ -1,21 +1,93 @@
-## Olá, tudo bem? 😉
+## Sobre
 
-Eu sou o Mário, bacharel em Administração e com MBA em Finanças Estratégicas e Investimentos.
-Atuo no ramo freelancer há mais de 8 anos, sendo o criador da Prazo Certo®, uma "eugência" que alia marketing de conteúdo, tecnologia e gestão do tempo. Como MEI ofereço os seguintes serviços: 
+Eu sou o Mário Lúcio, atuo como estrategista digital que une marketing de conteúdo e tecnologia por meio da [Prazo Certo](https://prazocerto.me). Formado em Administração com MBA em Finanças estratégicas e investimentos. Tenho certificações de IA generativa na Alura, Google Skills e Data Science Academy. Faço parte do programa voluntário [Product Expert](https://support.google.com/profile/119801043), do Google. Respondendo usuários nas comunidades Docs Editors e Gemini Apps.<br><br>
+Sou co-instrutor em formações sobre IA generativa para para universidades portuguesas, ao lado da professora Sofia Sá, bem como sssou co-autor da mentoria “IA para Criadores de Conteúdo: Dominando o ecossistema Gemini no uso do LinkedIn", ao lado do mentor de carreira Romulo Correa.
 
-✍🏽 Produção de Blogposts\
-📊 Desenvolvimento de planilhas personalizadas em Google Sheets\
-💻 Gestão de LinkedIn\
-🤖 Criação de prompts personalizados para IA generativa
+### Reconhecimentos e prêmios
+* 2º lugar na Imersão Dev_ Alura & Google com Gemini (2024);
+* Vencedor nas categorias "Arquitetura futurística" e "Animais fantásticos" do 1º concurso de IA de imagens do Brasil (2024).
 
-## Tecnologias que utilizo
+## Linguagens
 
-<p>
-    <img align="center" height="110" width="90" src="https://cdn.mrkhub.com/instapage-landings-frontend/104/images/_pages/integration/intro/google-sheets-logo.svg" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;    
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+<p align="left">
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> &nbsp
+    <img height="75" width="75" src="https://static.cdnlogo.com/logos/g/12/google-apps-script.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> &nbsp 
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /> &nbsp       
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /> &nbsp
+</p>
+
+## Ferramentas diversas
+
+<p align="left">
+    <img height="75" width="75" src="https://static.cdnlogo.com/logos/g/5/google-docs-editors.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" /> &nbsp
+</p>
+
+## IA generativa
+
+<p align="left">
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+</p>
+
+<p align="left">
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+</p>
+
+<p align="left">
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+</p>
+
+<p align="left">
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+</p>
+
+<p align="left">
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+</p>
+
+<p align="left">
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+    <img height="" width="" src="" /> &nbsp
+</p>
+
+
+<p align="left">
+    <img height="110" width="90" src="https://cdn.mrkhub.com/instapage-landings-frontend/104/images/_pages/integration/intro/google-sheets-logo.svg" />&nbsp;&nbsp;&nbsp;
+    <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+    <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;    
+    <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+    <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
 </p>
 <p>
     <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp;&nbsp;&nbsp;      
