@@ -66,7 +66,7 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mcp.svg" /> &nbsp
 </p>
 
-## Contatos
+## Meus contatos
 
 <p align="left">
     <a href="https://www.prazocerto.me" target="_blank"><img height="175" width="175" src="https://img.shields.io/badge/Site-prazocerto.me-230023?style=plastic" /></a>
