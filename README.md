@@ -7,7 +7,7 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
 * 2º lugar na Imersão Dev_ Alura & Google com Gemini (2024);
 * Vencedor nas categorias "Arquitetura futurística" e "Animais fantásticos" do 1º concurso de IA de imagens do Brasil (2024).
 
-## Linguagens
+## Linguagens que mais uso
 
 <p align="left">
     <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> &nbsp
@@ -18,7 +18,7 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
     <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /> &nbsp
 </p>
 
-## Ferramentas diversas
+## Ferramentas diversas que mais uso
 
 <p align="left">
     <img height="75" width="75" src="https://static.cdnlogo.com/logos/g/5/google-docs-editors.svg" /> &nbsp
@@ -31,7 +31,7 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
     <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" /> &nbsp
 </p>
 
-## IAs generativas
+## IAs generativas que mais uso
 
 <p align="left">
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/gemini-color.svg" /> &nbsp
