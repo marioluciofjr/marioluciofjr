@@ -18,7 +18,7 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
     <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /> &nbsp
 </p>
 
-## Ferramentas diversas que mais uso
+## Ferramentas diversas que tenho mais familiaridade
 
 <p align="left">
     <img height="75" width="75" src="https://static.cdnlogo.com/logos/g/5/google-docs-editors.svg" /> &nbsp
