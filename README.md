@@ -29,9 +29,10 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
     <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp
     <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" /> &nbsp
     <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mcp.svg" /> &nbsp
 </p>
 
-## IAs generativas que mais uso
+## IAs generativas que tenho mais conhecimento e uso
 
 <p align="left">
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/gemini-color.svg" /> &nbsp
@@ -39,31 +40,34 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/claude-color.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/perplexity-color.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/grok.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/deepseek-color.svg" /> &nbsp
 </p>
 
 <p align="left">
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/deepseek-color.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/qwen-color.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/metaai-color.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mistral-color.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/notebooklm.svg" /> &nbsp
-    
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/lovart.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/ideogram.svg" /> &nbsp    
 </p>
 
-<p align="left">
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/lovart.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/ideogram.svg" /> &nbsp
+<p align="left">    
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/suno.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/kling-color.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/poe-color.svg" /> &nbsp
-</p>
-
-<p align="left">
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/antigravity-color.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/aistudio.svg" /> &nbsp
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/lovable-color.svg" /> &nbsp
+</p>
+
+<p align="left">    
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/make-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mcp.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/copilot-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/bfl.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/elevenlabs.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/glif.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/manus.svg" /> &nbsp    
 </p>
 
 ## Meus contatos
