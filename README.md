@@ -10,63 +10,63 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
 ## Linguagens que mais uso
 
 <p align="left">
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> &nbsp
-    <img height="75" width="75" src="https://static.cdnlogo.com/logos/g/12/google-apps-script.svg" /> &nbsp
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> &nbsp 
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /> &nbsp       
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> &nbsp;
+    <img height="75" width="75" src="https://static.cdnlogo.com/logos/g/12/google-apps-script.svg" /> &nbsp;
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> &nbsp;
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /> &nbsp;       
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" /> &nbsp;
     <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /> &nbsp
 </p>
 
 ## Ferramentas diversas que tenho mais familiaridade
 
 <p align="left">
-    <img height="75" width="75" src="https://static.cdnlogo.com/logos/g/5/google-docs-editors.svg" /> &nbsp
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> &nbsp
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> &nbsp
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> &nbsp
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /> &nbsp
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" /> &nbsp
-    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" /> &nbsp
+    <img height="75" width="75" src="https://static.cdnlogo.com/logos/g/5/google-docs-editors.svg" /> &nbsp;
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> &nbsp;
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> &nbsp;
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> &nbsp;
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /> &nbsp;
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp;
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" /> &nbsp;
+    <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" /> &nbsp;
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mcp.svg" /> &nbsp
 </p>
 
 ## IAs generativas que tenho mais conhecimento e uso
 
 <p align="left">
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/gemini-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/openai.svg" /> &nbsp    
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/claude-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/perplexity-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/grok.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/deepseek-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/gemini-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/openai.svg" /> &nbsp;    
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/claude-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/perplexity-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/grok.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/deepseek-color.svg" /> &nbsp;
 </p>
 
 <p align="left">
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/qwen-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/metaai-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mistral-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/notebooklm.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/lovart.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/ideogram.svg" /> &nbsp    
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/qwen-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/metaai-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mistral-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/notebooklm.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/lovart.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/ideogram.svg" /> &nbsp;    
 </p>
 
 <p align="left">    
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/suno.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/kling-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/poe-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/antigravity-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/aistudio.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/lovable-color.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/suno.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/kling-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/poe-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/antigravity-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/aistudio.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/lovable-color.svg" /> &nbsp;
 </p>
 
 <p align="left">    
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/make-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/copilot-color.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/bfl.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/elevenlabs.svg" /> &nbsp
-    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/glif.svg" /> &nbsp
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/make-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/copilot-color.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/bfl.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/elevenlabs.svg" /> &nbsp;
+    <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/glif.svg" /> &nbsp;
     <img height="75" width="75" src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/manus.svg" /> &nbsp    
 </p>
 
