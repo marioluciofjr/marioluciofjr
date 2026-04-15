@@ -76,14 +76,11 @@ Sou co-instrutor em formações sobre IA generativa para para universidades port
 
 ## Meus contatos
 
-<table>
-  <tr>
-    <td><a href="https://www.prazocerto.me" target="_blank"><img src="https://img.shields.io/badge/Site-prazocerto.me-230023?style=plastic" /></a></td>
-    <td><a href="https://www.linkedin.com/in/marioluciofjr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-marioluciofjr-blue?style=plastic" /></a></td>
-    <td><a href="https://www.behance.net/prazocerto" target="_blank"><img src="https://img.shields.io/badge/Behance-prazocerto-black?style=plastic" /></a></td>
-    <td><a href="https://marioluciofjr.substack.com" target="_blank"><img src="https://img.shields.io/badge/Substack-3_parágrafos-orange?style=plastic" /></a></td>
-  </tr>
-</table>
+[![Meu site](https://img.shields.io/badge/site-prazocerto.me-230023)](https://www.prazocerto.me/contato "Solicite um orçamento")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marioluciofjr-blue?style=plastic)](https://www.linkedin.com/in/marioluciofjr "Envie um convite de conexão")
+[![Behance](https://img.shields.io/badge/Behance-prazocerto-black?style=plastic)](https://www.behance.net/prazocerto "Confira meu portfólio de imagens com IA generativa")
+[![Substack](https://img.shields.io/badge/Substack-3_parágrafos-orange?style=plastic)](https://marioluciofjr.substack.com "Dê uma olhada em artigos científicos resumidos")
+
 
 ##
 
