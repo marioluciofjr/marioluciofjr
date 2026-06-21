@@ -1,7 +1,7 @@
 ## Sobre
 
 Eu sou o Mário Lúcio, atuo como estrategista digital que une marketing de conteúdo e tecnologia por meio da [Prazo Certo](https://prazocerto.me). Formado em Administração com MBA em Finanças estratégicas e investimentos. Tenho certificações de IA generativa na Alura, Google Skills e Data Science Academy. Faço parte do programa voluntário [Product Expert](https://support.google.com/profile/119801043), do Google. Respondendo usuários nas comunidades Docs Editors e Gemini Apps.<br><br>
-Sou co-instrutor em formações sobre IA generativa para para universidades portuguesas, ao lado da professora Sofia Sá, bem como sssou co-autor da mentoria “IA para Criadores de Conteúdo: Dominando o ecossistema Gemini no uso do LinkedIn", ao lado do mentor de carreira Romulo Correa.
+Sou co-instrutor em formações sobre IA generativa para para universidades portuguesas, ao lado da professora Sofia Sá, bem como sou co-autor da mentoria “IA para Criadores de Conteúdo: Dominando o ecossistema Gemini no uso do LinkedIn", ao lado do mentor de carreira Romulo Correa.
 
 ### Reconhecimentos e prêmios
 * 2º lugar na Imersão Dev_ Alura & Google com Gemini (2024);
